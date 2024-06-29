@@ -12,7 +12,7 @@
     <img style="height:50px; border-radius: 25%;" src="https://cdn-icons-png.flaticon.com/128/2504/2504911.png" alt="Github Badge"/>
   </a>
    <a href="https://x.com/mailapalli_002?s=09">
-    <img src="//www.flaticon.com/free-icons/brands-and-logotypes" alt="Twitter Badge"/>
+    <img style="height:50px; border-radius: 25%;" src="twitter.png" alt="Twitter Badge"/>
   </a>
 </div>
 
