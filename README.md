@@ -12,7 +12,7 @@
     <img style="height:50px; border-radius: 25%;" src="https://cdn-icons-png.flaticon.com/128/2504/2504911.png" alt="Github Badge"/>
   </a>
    <a href="https://x.com/mailapalli_002?s=09">
-    <img style="height:50px; border-radius: 25%;" src="twitter.jpg" alt="Twitter Badge"/>
+    <img style="height:50px; border-radius: 25%;" src="twitter.png" alt="Twitter Badge"/>
   </a>
  <a href="www.linkedin.com/in/umapathi-mailapalli-379851281">
     <img style="height:50px; border-radius: 25%;" src="linkedin.png" alt="linkdin Badge"/>
