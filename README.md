@@ -14,7 +14,7 @@
    <a href="https://x.com/mailapalli_002?s=09">
     <img style="height:53px; border-radius: 25%;" src="TwitterX.png" alt="Twitter Badge"/>
   </a>
- <a href="www.linkedin.com/in/umapathi-mailapalli-379851281">
+ <a href="https://www.linkedin.com/in/umapathi-mailapalli-379851281">
     <img style="height:50px; border-radius: 25%;" src="linkedin(1).png" alt="linkdin Badge"/>
   </a>
 </div>
