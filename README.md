@@ -1,5 +1,8 @@
- <h1 align="center">Hi 👋, I'm Umapathi Mailapalli</h1>
+<div style="text-align: center;"> 
+  <img width="600" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Umapathi%F0%9F%91%8B;Let's+Connect!"/>
+</div>
 
+ 
 - 🔭 I’m currently working on React js
 - 🌱 I’m currently learning Frontend
 - 💬 Ask me anything about Frontend web development
