@@ -4,7 +4,7 @@
 
  
 - 🔭 I’m currently working on React js
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently Mastering Frontend technologies
 - 💬 Ask me anything about Frontend web development
 - 📫 How to reach me: ravimailapalli62@gmail.com
 - ⚡ Inspiring Quote: I think it is possible for ordinary people to choose to be Extraordinary.
