@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Frontend
 - 💬 Ask me anything about Frontend web development
 - 📫 How to reach me: ravimailapalli62@gmail.com
-- ⚡ Inspiring Quote: I think it is possible for ordinary people to choose to be <span style="color: blue;">Extraordinary</span>.
+- ⚡ Inspiring Quote: I think it is possible for ordinary people to choose to be Extraordinary.
   
 ### Connect with me:
 <div id="badges">
