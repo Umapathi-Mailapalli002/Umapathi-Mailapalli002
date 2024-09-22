@@ -5,7 +5,7 @@
  
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently Mastering Full Stack
-- 💬 Ask me anything about Frontend web development
+- 💬 Ask me anything about web development
 - 📫 How to reach me: ravimailapalli007@gmail.com
 - ⚡ Inspiring Quote: I think it is possible for ordinary people to choose to be Extraordinary.
   
