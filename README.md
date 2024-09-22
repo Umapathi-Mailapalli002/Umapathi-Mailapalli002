@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,mongodb,express,react,nodejs,nextjs,typescript,java,firebase,docker,bitbucket,vscode,github,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,mongodb,express,react,nodejs,nextjs,typescript,java,firebase,docker,bitbucket,postamn,vscode,github,git&perline=5)](https://skillicons.dev)
 
 ![Umapathi-Mailapalli GitHub stats](https://github-readme-stats.vercel.app/api?username=Umapathi-Mailapalli002&show_icons=true&theme=dark)
 
